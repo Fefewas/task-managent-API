@@ -33,7 +33,6 @@ Task Management API is a backend project built with Node.js that provides a comp
 - **Express.js**: Web framework for Node.js to handle HTTP requests.
 - **MongoDB**: NoSQL database to store user, task, and workspace data.
 - **JWT**: JSON Web Tokens for secure user authentication.
-- **Mongoose**: ODM library to interact with MongoDB.
 
 ## Installation
 
