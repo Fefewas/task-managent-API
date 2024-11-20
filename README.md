@@ -62,21 +62,11 @@ Task Management API is a backend project built with Node.js that provides a comp
 4. Start the application:
 
     ```bash
-    npm start
+    npm startÑ
     ```
 
 The server will be running on `http://localhost:5000`.
 
 ## API Endpoints
 
-### **User Endpoints**
-
-#### `POST /api/users/register`
-- **Description**: Register a new user.
-- **Body**:
-  ```json
-  {
-    "name": "John Doe",
-    "email": "john.doe@example.com",
-    "password": "securepassword123"
-  }
+You can find all the end points  in this project in the routes folder.
